@@ -1,2 +1,5 @@
 hdkl
+<<<<<<< HEAD
 hi how are you
+=======
+
